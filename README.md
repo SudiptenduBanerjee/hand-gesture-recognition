@@ -9,4 +9,4 @@ A Python project for recognizing hand gestures using MediaPipe, TensorFlow, and 
 
 ## Installation
 ```bash
-pip install opencv-python mediapipe tensorflow numpy pillow 
+pip install opencv-python mediapipe tensorflow numpy pillow pyqt
